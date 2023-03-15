@@ -31,7 +31,7 @@ const galdea = {
   📫 How to reach me: {
                         LinkedIn: https://www.linkedin.com/in/gabriel-aldea/,
                         Email: gabriel@gmail.com,
-                        Discord: Gabriel#2175,
+                        Discord: galdea#2175,
                         Instagram: [@galdea](https://www.instagram.com/gab_aldea/)
                       },
   💻 code: [Javascript, Python, HTML, CSS, ReactJS, Flask, SQL, SQLAlchemy, API, JEST, PostgreSQL, SemanticUI, Bootstrap],
@@ -49,15 +49,12 @@ const galdea = {
 [CVGabrielAldea.pdf](https://github.com/galdea/CV-Resume/raw/main/CV%20Gabriel%20Aldea.pdf)
 ***
 #### 📡 Contact me! 
-<a href="https://www.instagram.com/galdea/">
-                        <img align="left" alt="Gabriel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-                      </a>,
-<a href="https://discord.gg/XTW52Kt">
-                        <img align="left" alt="Gabriel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-                      </a>,
-                      <a href="https://www.linkedin.com/in/gabriel-aldea/">
+<a href="https://www.linkedin.com/in/gabriel-aldea/">
                         <img align="left" alt="Gabriel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
                       </a>,
                       <a href="https://mail.google.com/mail/u/0/?fs=1&to=gabriel.aldea@gmail.com&su=Hi%20Gabriel!&body%22%3E&tf=cm">
-                        <img align="left" alt="Gabriel's email" width="22px" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" /></a>
+                        <img align="left" alt="Gabriel's email" width="22px" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" /></a>,
+                        <a href="https://www.instagram.com/galdea/">
+                        <img align="left" alt="Gabriel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+                      </a>,
                          
