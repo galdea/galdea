@@ -1,7 +1,6 @@
-### Hi there 👋, my name is Gabriel Aldea, welcome to my repository.
+### Hi there 👋, my name is Gabriel Aldea, welcome to my repository!
 
-<!--
-
+```javascript
 const galdea = {
   🔭 I’m currently working on: [MeetMeUp, an user friendly app for creating and joining events],
   🤔 I’m looking to collaborate on: [Interesting opensource projects],
