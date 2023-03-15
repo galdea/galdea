@@ -36,7 +36,7 @@ const galdea = {
                       },
   💻 code: [Javascript, Python, HTML, CSS, ReactJS, Flask, SQL, SQLAlchemy, API, JEST, PostgreSQL, SemanticUI, Bootstrap],
   ⚒ tools: [React, Node, Jest],
-  🚵‍♂️ challenge: [Excelling as a developer 😎]
+  🚵‍♂️ challenge: [Excelling as a developer 😎, currently working on the #javascript30 day challenge]
 }
 ```
 ***
