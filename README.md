@@ -17,6 +17,7 @@ const galdea = {
 }
 ```
 
+```html
                       <a href="https://www.instagram.com/galdea/">
                         <img align="left" alt="Gabriel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
                       </a>,
@@ -29,3 +30,4 @@ const galdea = {
                       <a href="https://mail.google.com/mail/u/0/?fs=1&to=gabriel.aldea@gmail.com&su=Hi%20Gabriel!&body%22%3E&tf=cm>
                         <img align="left" alt="Gabriel's email" width="22px" src="https://iconos8.es/icon/37246/gmail" />
                       </a>
+```
