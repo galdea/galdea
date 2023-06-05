@@ -29,6 +29,8 @@ const galdea = {
   🤔 I’m looking to collaborate on: [Exciting opensource projects], [Interesting work opportunities!],
   💬 Ask me about: [My years living abroad], [My passion for photography],
   📫 How to reach me: {
+                        Website: https://www.gabrielaldea.com,
+                        My Photography: https://gabrielaldeaphotography.netlify.app/,
                         LinkedIn: https://www.linkedin.com/in/gabriel-aldea/,
                         Email: gabriel@gmail.com,
                         Discord: galdea#2175,
@@ -36,7 +38,7 @@ const galdea = {
                       },
   💻 code: [Javascript, Python, HTML, CSS, ReactJS, Flask, SQL, SQLAlchemy, API, JEST, PostgreSQL, SemanticUI, Bootstrap],
   ⚒ tools: [React, Node, Jest],
-  🚵‍♂️ challenge: [Excelling as a developer 😎, currently working on the #javascript30 day challenge]
+  🚵‍♂️ challenge: [Excelling as a developer 😎, currently working on multiple projects and the #javascript30 day challenge]
 }
 ```
 ***
