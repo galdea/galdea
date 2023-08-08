@@ -45,15 +45,3 @@ const galdea = {
   
 [![Galdea's GitHub stats](https://github-readme-stats.vercel.app/api?username=galdea&show_icons=true&theme=gotham&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galdea&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ***
-#### 📋 If interested, have a look at my CV!
-
-[CVGabrielAldea.pdf](https://github.com/galdea/CV-Resume/raw/main/CV%20Gabriel%20Aldea.pdf)
-***
-#### 📡 Contact me! 
-                      </a>
-                      <a href="https://mail.google.com/mail/u/0/?fs=1&to=gabriel.aldea@gmail.com&su=Hi%20Gabriel!&body%22%3E&tf=cm">
-                        <img align="left" alt="Gabriel's email" width="22px" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" /></a>
-                        <a href="https://www.instagram.com/gab_aldea/">
-                        <img align="left" alt="Gabriel's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-                      </a>
-                         
