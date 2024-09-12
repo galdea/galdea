@@ -29,7 +29,7 @@ const galdea = {
   🤔 I’m looking to collaborate on: [Exciting opensource projects], [Interesting work opportunities!],
   💬 Ask me about: [My years living abroad], [My passion for photography],
   📫 How to reach me: {
-                        Website: https://www.aldeazadigital.com,
+                        Website: https://www.aldeazadigital.com, https://gabrielaldea.vercel.app/,
                         My Photography: https://gabrielaldeaphotography.vercel.app/,
                         Email: galdea@uc.cl,
                         Discord: galdea#2175,
