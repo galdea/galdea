@@ -25,17 +25,17 @@
 #### 📌 A little bit about myself:
 ```javascript
 const galdea = {
-  🔭 I’m currently working on: [MeetMeUp, a user friendly app for creating and joining events], [gabrielaldea.com, a website to showcase my photography],[Studying and practicing my web-dev skills],
+  🔭 I’m currently working on: [Austral Escapes, a tourism agency in Patagonia], [Studying and practicing my web-dev skills],
   🤔 I’m looking to collaborate on: [Exciting opensource projects], [Interesting work opportunities!],
   💬 Ask me about: [My years living abroad], [My passion for photography],
   📫 How to reach me: {
-                        Website: https://www.gabrielaldea.com,
-                        My Photography: https://gabrielaldeaphotography.netlify.app/,
-                        Email: gabriel@gmail.com,
+                        Website: https://www.aldeazadigital.com,
+                        My Photography: https://gabrielaldeaphotography.vercel.app/,
+                        Email: galdea@uc.cl,
                         Discord: galdea#2175,
                         Instagram: [@galdea](https://www.instagram.com/gab_aldea/)
                       },
-  💻 code: [Javascript, Python, HTML, CSS, ReactJS, Flask, SQL, SQLAlchemy, API, JEST, PostgreSQL, SemanticUI, Bootstrap],
+  💻 code: [Javascript, Python, HTML, CSS, ReactJS, NextJS Flask, SQL, SQLAlchemy, API, JEST, PostgreSQL, SemanticUI, Bootstrap],
   ⚒ tools: [React, Node, Jest],
   🚵‍♂️ challenge: [Excelling as a developer 😎, currently working on multiple projects and the #javascript30 day challenge]
 }
